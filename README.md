@@ -72,7 +72,7 @@ mowito_ws/src
 
 img_conv/srv/ImgConvert.srv
 ```sh
-bool mode
+bool mode  #true for greyscale  & false for rgb
 ---
 string result
 ```
